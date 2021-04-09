@@ -16,7 +16,7 @@ a {
     /* border: black solid 1px; */
 }
 
-.architecture-photo, .nature-photo {
+.architecture-photo, .nature-photo, .pets-photo, .sea-life-photo, .sports-photo, .zoo-life-photo {
     width: 100%;
     padding-bottom: 1.5em;
 }
