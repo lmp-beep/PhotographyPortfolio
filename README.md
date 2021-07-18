@@ -14,7 +14,7 @@ add contact form
 
 make contact form functional
 
-add image click large pop-ups
+add image carousels
 
 add image alt=
 
